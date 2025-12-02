@@ -78,7 +78,7 @@ internal class Program
         }
     }
 
-    // === твое ЗАДАНИЕ 1 (как у тебя было) ===
+    // ===  ЗАДАНИЕ 1 (как у тебя было) ===
     static void RunExceptionsDemo()
     {
         Console.Clear();
